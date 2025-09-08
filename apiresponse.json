@@ -75,17 +75,6 @@
       "deliveryTime": "20 mins",
       "cloudinaryImageId": "gp1ityra6utvzqn6ghnv"
     }
-  },
-  {
-    "info": {
-      "id": "66666",
-      "name": "Grill Master",
-      "cuisines": ["Barbecue", "Grill"],
-      "costForTwo": "₹700 for two",
-      "avgRating": 4.4,
-      "deliveryTime": "30 mins",
-      "cloudinaryImageId": "gp1ityra6utvzqn6ghnv"
-    }
   }
 
 
