@@ -86,49 +86,7 @@
       "deliveryTime": "30 mins",
       "cloudinaryImageId": "a4944f0cfdcbca2bec1f3ab8e3db3f7"
     }
-  },
-  {
-    "info": {
-      "id": "77777",
-      "name": "Sweet Tooth",
-      "cuisines": ["Desserts", "Bakery"],
-      "costForTwo": "₹250 for two",
-      "avgRating": 4.8,
-      "deliveryTime": "15 mins",
-      "cloudinaryImageId": "fa4944f0cfdcbca2bec1f3ab8e3db3f7"
-    }
-  },
-  {
-    "info": {
-      "id": "88888",
-      "name": "Veggie Delight",
-      "cuisines": ["Vegetarian", "Healthy"],
-      "costForTwo": "₹400 for two",
-      "avgRating": 4.3,
-      "deliveryTime": "25 mins",
-      "cloudinaryImageId": "fa4944f0cfdcbca2bec1f3ab8e3db3f7"
-    }
-  },
-  {
-    "info": {
-      "id": "99999",
-      "name": "Seafood Shack",
-      "cuisines": ["Seafood"],
-      "costForTwo": "₹900 for two",
-      "avgRating": 4.5,
-      "deliveryTime": "45 mins",
-      "cloudinaryImageId": "fa4944f0cfdcbca2bec1f3ab8e3db3f7"
-    }
-  },
-  {
-    "info": {
-      "id": "101010",
-      "name": "Pizza Corner",
-      "cuisines": ["Italian", "Fast Food"],
-      "costForTwo": "₹550 for two",
-      "avgRating": 4.6,
-      "deliveryTime": "30 mins",
-      "cloudinaryImageId": "fa4944f0cfdcbca2bec1f3ab8e3db3f7"
-    }
   }
+
+
 ]
