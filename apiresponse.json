@@ -8,7 +8,21 @@
       "avgRating": 4.5,
       "deliveryTime": "30 mins",
       "cloudinaryImageId": "nigqvxgzvyxtfjuqasgg",
-      "promoted": true
+      "promoted": true,
+      "categories": [
+        {
+          "title": "Recommended",
+          "text": "Chef’s special pasta with creamy Alfredo sauce and Mexican tacos loaded with cheese."
+        },
+        {
+          "title": "Starters",
+          "text": "Garlic bread, bruschetta, and nachos with salsa dip to start your meal right."
+        },
+        {
+          "title": "Desserts",
+          "text": "Tiramisu and chocolate lava cake to end your meal on a sweet note."
+        }
+      ]
     }
   },
   {
@@ -20,7 +34,21 @@
       "avgRating": 4.0,
       "deliveryTime": "25 mins",
       "cloudinaryImageId": "2469fa88ee9b0b5d1366ba88f2a7fa7f",
-      "promoted": false
+      "promoted": false,
+      "categories": [
+        {
+          "title": "Bestsellers",
+          "text": "Chili chicken, paneer butter masala, and egg fried rice — most loved by our customers."
+        },
+        {
+          "title": "Combos",
+          "text": "Get a complete meal with rice, curry, salad, and dessert at a special price."
+        },
+        {
+          "title": "Beverages",
+          "text": "Fresh lime soda, masala chai, and soft drinks available."
+        }
+      ]
     }
   },
   {
@@ -32,7 +60,21 @@
       "avgRating": 4.3,
       "deliveryTime": "20 mins",
       "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/5/f249ac91-2d8f-472b-b60c-4a7ea4ed9f86_1003415.jpg",
-      "promoted": true
+      "promoted": true,
+      "categories": [
+        {
+          "title": "Chef’s Specials",
+          "text": "Spicy Thai curry and butter naan combo that’s bursting with flavor."
+        },
+        {
+          "title": "Rice & Noodles",
+          "text": "Thai basil fried rice, Hakka noodles, and schezwan rice for spice lovers."
+        },
+        {
+          "title": "Soups",
+          "text": "Tom yum soup and hot & sour soup freshly prepared with aromatic herbs."
+        }
+      ]
     }
   },
   {
@@ -44,7 +86,21 @@
       "avgRating": 4.1,
       "deliveryTime": "15 mins",
       "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/9/1/bd7954b5-a431-4726-b2da-4670ceba472d_1003414.JPG",
-      "promoted": false
+      "promoted": false,
+      "categories": [
+        {
+          "title": "Classic Burgers",
+          "text": "Cheeseburgers, double patties, and crispy chicken burgers grilled to perfection."
+        },
+        {
+          "title": "Fries & Sides",
+          "text": "Crispy fries, onion rings, and cheesy nachos."
+        },
+        {
+          "title": "Beverages",
+          "text": "Milkshakes, cold coffee, and soft drinks to complement your meal."
+        }
+      ]
     }
   },
   {
@@ -56,7 +112,21 @@
       "avgRating": 4.7,
       "deliveryTime": "35 mins",
       "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/2/16/7cbbb087-5eb9-4464-bce2-8e8a392d19a2_1046102.jpg",
-      "promoted": true
+      "promoted": true,
+      "categories": [
+        {
+          "title": "Signature Pastas",
+          "text": "Penne Alfredo, spaghetti aglio olio, and lasagna layered with cheese."
+        },
+        {
+          "title": "Salads",
+          "text": "Caesar salad and caprese salad with fresh mozzarella and basil."
+        },
+        {
+          "title": "Desserts",
+          "text": "Panna cotta and tiramisu for a perfect Italian experience."
+        }
+      ]
     }
   },
   {
@@ -68,7 +138,21 @@
       "avgRating": 4.6,
       "deliveryTime": "40 mins",
       "cloudinaryImageId": "qd4znnazesd7hseqld5s",
-      "promoted": false
+      "promoted": false,
+      "categories": [
+        {
+          "title": "Sushi Rolls",
+          "text": "California rolls, spicy tuna rolls, and salmon maki made fresh daily."
+        },
+        {
+          "title": "Sashimi",
+          "text": "Fresh cuts of salmon, tuna, and yellowtail served with soy and wasabi."
+        },
+        {
+          "title": "Japanese Mains",
+          "text": "Teriyaki chicken, ramen, and miso soup for a wholesome meal."
+        }
+      ]
     }
   },
   {
@@ -80,7 +164,21 @@
       "avgRating": 4.2,
       "deliveryTime": "20 mins",
       "cloudinaryImageId": "gp1ityra6utvzqn6ghnv",
-      "promoted": true
+      "promoted": true,
+      "categories": [
+        {
+          "title": "Fresh Salads",
+          "text": "Greek salad, quinoa bowl, and chickpea salad with house dressing."
+        },
+        {
+          "title": "Smoothies",
+          "text": "Green detox smoothie, berry blast, and protein shakes."
+        },
+        {
+          "title": "Wraps",
+          "text": "Healthy wraps loaded with grilled veggies, hummus, and falafel."
+        }
+      ]
     }
   }
 ]
