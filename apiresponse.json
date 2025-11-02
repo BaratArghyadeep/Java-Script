@@ -7,7 +7,8 @@
       "costForTwo": "₹500 for two",
       "avgRating": 4.5,
       "deliveryTime": "30 mins",
-      "cloudinaryImageId": "nigqvxgzvyxtfjuqasgg"
+      "cloudinaryImageId": "nigqvxgzvyxtfjuqasgg",
+      "promoted": true
     }
   },
   {
@@ -18,7 +19,8 @@
       "costForTwo": "₹400 for two",
       "avgRating": 4.0,
       "deliveryTime": "25 mins",
-      "cloudinaryImageId": "2469fa88ee9b0b5d1366ba88f2a7fa7f"
+      "cloudinaryImageId": "2469fa88ee9b0b5d1366ba88f2a7fa7f",
+      "promoted": false
     }
   },
   {
@@ -29,7 +31,8 @@
       "costForTwo": "₹350 for two",
       "avgRating": 4.3,
       "deliveryTime": "20 mins",
-      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/5/f249ac91-2d8f-472b-b60c-4a7ea4ed9f86_1003415.jpg"
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/12/5/f249ac91-2d8f-472b-b60c-4a7ea4ed9f86_1003415.jpg",
+      "promoted": true
     }
   },
   {
@@ -40,7 +43,8 @@
       "costForTwo": "₹300 for two",
       "avgRating": 4.1,
       "deliveryTime": "15 mins",
-      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/9/1/bd7954b5-a431-4726-b2da-4670ceba472d_1003414.JPG"
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/9/1/bd7954b5-a431-4726-b2da-4670ceba472d_1003414.JPG",
+      "promoted": false
     }
   },
   {
@@ -51,7 +55,8 @@
       "costForTwo": "₹600 for two",
       "avgRating": 4.7,
       "deliveryTime": "35 mins",
-      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/2/16/7cbbb087-5eb9-4464-bce2-8e8a392d19a2_1046102.jpg"
+      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/2/16/7cbbb087-5eb9-4464-bce2-8e8a392d19a2_1046102.jpg",
+      "promoted": true
     }
   },
   {
@@ -62,7 +67,8 @@
       "costForTwo": "₹800 for two",
       "avgRating": 4.6,
       "deliveryTime": "40 mins",
-      "cloudinaryImageId": "qd4znnazesd7hseqld5s"
+      "cloudinaryImageId": "qd4znnazesd7hseqld5s",
+      "promoted": false
     }
   },
   {
@@ -73,9 +79,8 @@
       "costForTwo": "₹450 for two",
       "avgRating": 4.2,
       "deliveryTime": "20 mins",
-      "cloudinaryImageId": "gp1ityra6utvzqn6ghnv"
+      "cloudinaryImageId": "gp1ityra6utvzqn6ghnv",
+      "promoted": true
     }
   }
-
-
 ]
